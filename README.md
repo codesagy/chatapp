@@ -24,13 +24,13 @@ Programming aspects:
     Single program should serve the purpose. No dedicated chat server is needed.
 
 # Instructions to use ChatApp :
-1.) I want to Chat
+1.  I want to Chat
     - Use 'CIAO' to exit sending messages.
-2.) Show my Messages..
+2.  Show my Messages..
     - Use this option repeatedly to display received messages until you have no incoming messages left.
-3.) Show my Chat History..
+3.  Show my Chat History..
     - Use this option to get your chat history.
-4.) I'm done, Get me OUTTA here!
+4.  I'm done, Get me OUTTA here!
     - Exit chat application.
 
 
