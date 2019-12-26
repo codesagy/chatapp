@@ -1,4 +1,4 @@
-# ChatApp using Unix system V IPC message queue.
+# ChatApp using Unix System V IPC message queue.
 
 Problem statement: Write a chat application using Unix system V IPC message queue. 
 The chat application should have following features: User should able to :
